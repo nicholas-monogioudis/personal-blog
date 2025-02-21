@@ -28,9 +28,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Deploy to nicholas-monogioudis.github.io
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          deploy_key: ${{ secrets.DEPLOY_KEY }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           external_repository: nicholas-monogioudis/nicholas-monogioudis.github.io
           publish_branch: main  # or master, depending on your setup
           publish_dir: ./_site  # Directory of your build outputs
