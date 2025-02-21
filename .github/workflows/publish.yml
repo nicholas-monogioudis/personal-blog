@@ -39,3 +39,4 @@ jobs:
           user_name: 'GitHub Actions'
           user_email: 'actions@github.com'
           commit_message: 'Deploy updates made to personal blog'
+          
