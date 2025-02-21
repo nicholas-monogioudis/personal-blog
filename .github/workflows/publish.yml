@@ -25,12 +25,12 @@ jobs:
         with:
           target: gh-pages
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.CICD_TOKEN }}
       
       - name: Deploy to nicholas-monogioudis.github.io
         uses: peaceiris/actions-gh-pages@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.CICD_TOKEN }}
           #external_repository: nicholas-monogioudis/nicholas-monogioudis.github.io
           publish_branch: gh-pages  # or master, depending on your setup
           publish_dir: ./_site  # Directory of your build outputs
