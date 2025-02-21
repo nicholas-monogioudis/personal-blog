@@ -31,7 +31,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          external_repository: nicholas-monogioudis/nicholas-monogioudis.github.io
+          #external_repository: nicholas-monogioudis/nicholas-monogioudis.github.io
           publish_branch: main  # or master, depending on your setup
           publish_dir: ./_site  # Directory of your build outputs
           allow_empty_commit: true
