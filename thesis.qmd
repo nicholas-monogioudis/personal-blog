@@ -1,0 +1,462 @@
+The Role of Inflammation in Alzheimer's Development
+
+INTRODUCTION
+
+Alzheimer's disease (AD) is a progressive neurodegenerative disorder
+that leads to memory loss, confusion, and a gradual decline in both
+cognitive and physical abilities (Alzheimer\'s Association, 2023). As
+global life expectancy continues to rise, the prevalence of AD is also
+increasing, which places a lot pressure on patients, their families, and
+healthcare systems around the world (Prince et al., 2015). Today, AD
+ranks among the leading causes of dementia and disability in older
+adults, which causes serious challenges not only to patients but also to
+caregivers and society as a whole (World Health Organization, 2022).
+
+For decades, the predominant explanation for Alzheimer's has been the
+"amyloid hypothesis," which credits the disease to the accumulation of
+amyloid-beta plaques and tau tangles in the brain (Hardy & Selkoe,
+2002). These abnormal protein build-ups disrupt neuronal communication,
+trigger cell death, and have been central to most research and
+therapeutic strategies (Selkoe & Hardy, 2016). Genetic factors, such as
+the APOE4 gene, have also been linked to increased risk and progression
+of AD (Liu et al., 2013). While the amyloid hypothesis has guided much
+of the scientific investigation, treatments targeting amyloid plaques
+have mostly fallen short in giving significant clinical benefits
+(Cummings et al., 2019). This has led researchers to explore alternative
+mechanisms that may contribute to the onset and progression of
+Alzheimer's.
+
+Emerging evidence points to chronic inflammation as a critical driver of
+AD pathology. Unlike acute inflammation, which is a short-term and
+protective immune response, chronic inflammation is a prolonged state
+that disrupts normal physiological functions (Heppner et al., 2015). In
+the brain, this persistent inflammation can arise from factors such as
+metabolic dysfunction, oxidative stress, and unhealthy lifestyle habits
+(Heneka et al., 2015). Over time, these triggers activate immune cells
+like microglia and astrocytes, which, instead of protecting neurons,
+begin to release inflammatory molecules that damage healthy brain cells
+(Glass et al., 2010). This inflammatory environment not only accelerates
+the formation of amyloid plaques and tau tangles but also impairs
+synaptic communication and neuronal survival (Wyss-Coray & Rogers,
+2012).
+
+This paper argues that chronic inflammation is not merely a byproduct of
+Alzheimer's disease but a fundamental contributor to its development and
+progression. Specifically, this paper proposes that metabolic and immune
+dysregulation underlie the chronic inflammatory state observed in AD.
+Understanding how inflammation interacts with other pathological
+processes, such as amyloid and tau aggregation, may provide crucial
+insights into the disease's mechanisms. By targeting the root causes of
+neuroinflammation---whether through lifestyle interventions,
+anti-inflammatory treatments, or metabolic regulation---we may open new
+avenues for slowing or even preventing the progression of Alzheimer's
+disease (Heneka et al., 2018).
+
+This hypothesis is supported by recent studies that link inflammation
+markers to cognitive decline (Walker et al., 2019) and displays the
+presence of pro-inflammatory cytokines in the brains of Alzheimer's
+patients (Suarez-Calvet et al., 2016). Additionally, experimental models
+have shown that reducing inflammation can better neuronal damage and
+improve cognitive function (Yin et al., 2021). These findings highlight
+the need to shift our focus beyond amyloid-centric approaches and
+towards addressing the multifaceted role of inflammation in AD. By doing
+so, we can move closer to developing more effective therapeutic
+strategies for this devastating disease.
+
+THE ROLE OF NEUROINFLAMMATION IN ALZHEIMER'S PATHOLOGY
+
+Neuroinflammation is now recognized as a major contributor to
+Alzheimer's disease. A key part of this is the role of microglia which
+are immune cells in the brain that keep things balanced by responding to
+injuries, infections, and other disruptions. In Alzheimer's disease,
+microglia (the brain's resident immune cells) are constantly activated.
+This is different from their normal transient activation during acute
+immune responses (Heneka et al., 2015). This chronic activation causes a
+cascade of damaging effects, including the release of pro-inflammatory
+cytokines like IL-1β and TNF-α, as well as reactive oxygen species,
+which lead to synaptic dysfunction and neuronal death (Glass et al.,
+2010; Suarez-Calvet et al., 2016). As microglia continuously attack
+neurons, they contribute to the disruption of synaptic connections and
+increase cognitive decline and memory impairments characteristic of
+Alzheimer's disease (Wyss-Coray & Rogers, 2012). This suggests that
+microglial dysregulation is a central mechanism driving
+neurodegeneration in AD, perpetuating the cycle of inflammation and
+neuronal loss. This highlights how immune dysregulation contributes not
+just to neuronal loss but also to the overall progression of AD.
+
+As stated above, cytokines have a prominent role in Alzheimer\'s
+disease. Key molecules like interleukin-1β (IL-1β), tumor necrosis
+factor-alpha (TNF-α), and interleukin-6 (IL-6) all have higher levels in
+the brains of people with AD. As a result, synaptic function and
+plasticity are affected. The increase in cytokine levels not only helps
+trigger the hyperphosphorylation of tau (a major hallmark of AD) which
+weakens neurons even more (Wyss-Coray & Rogers, 2012), they also make it
+easier for amyloid plaques to form. This creates a cycle of inflammation
+and neuronal damage.
+
+In addition to the direct effects of cytokines, a key part of AD is the
+back-and-forth between amyloid-beta build-up and brain inflammation.
+When amyloid-beta plaques pile up in the brains of people with
+Alzheimer's, they signal to fire inflammatory molecules from microglia,
+which then speed up the deposits of even more amyloid-beta. This cycle
+of plaques causing inflammation, and inflammation causing more plaques,
+really drives the progression of the disease. Studies suggest that
+breaking this loop could help lower plaque build-up and slow down the
+disease, making neuroinflammation an exciting target for new treatments
+(Heppner et al., 2015). Since the link between amyloid-beta and
+inflammation is very complicated, targeting the inflammation might help
+stop this. Ths gives hope for future therapies that could delay or even
+prevent Alzheimer's. Thus, getting a better handle on inflammation is
+essential for finding more effective treatments.
+
+GENETIC RISK FACTORS AND INFLAMMATORY PATHWAYS
+
+Genetic factors play a crucial role in determining the risk of
+developing Alzheimer's disease (AD), with differences in certain genes
+significantly influencing the brain\'s inflammatory responses. Among
+these, changes in the TREM2 gene and the APOE4 allele are particularly
+noteworthy for their contributions to the onset and progression of
+Alzheimer\'s disease. These genetic factors are linked not only to an
+increased susceptibility to AD but also to the modulation of
+neuroinflammation, a hallmark of the disease.
+
+One of the most studied genes in relation to Alzheimer\'s risk is TREM2
+(Triggering Receptor Expressed on Myeloid Cells 2). TREM2 is involved in
+the functioning of microglia. Variations in the TREM2 gene, particularly
+rare mutations, have been shown to impair the ability of microglia to
+respond effectively to neurodegenerative signals. As a result, this
+increases neuroinflammation and accelerates the progression of AD.
+Guerreiro et al. (2013) demonstrated that mutations in the TREM2 gene
+lead to a big reduction in the ability of microglia to efficiently
+manage amyloid-beta plaques and other neurotoxic agents. This impairment
+not only results in the accumulation of amyloid plaques but also
+contributes to a chronic inflammatory environment that exacerbates
+neuronal damage. The disruption of microglial clearance and the
+subsequent rise in inflammatory cytokines fuels the neurodegenerative
+process, creating a cycle that accelerates cognitive decline.
+
+In addition to TREM2 mutations, the APOE4 allele is another major
+genetic risk factor for Alzheimer\'s disease. APOE4, a variant of the
+apolipoprotein E gene, has been well established as a genetic variant
+that increases the risk of Alzheimer's and is particularly associated
+with an earlier onset of the disease. The presence of the APOE4 allele
+has been shown to enhance inflammation in the brain by promoting the
+production of pro-inflammatory molecules, including cytokines and
+chemokines. According to Mahley and Huang (2012), APOE4 not only
+increases the production of these inflammatory molecules but also
+impairs the ability of microglia to clear amyloid-beta plaques, leading
+to a further accumulation of plaques and greater neuronal damage. In
+particular, APOE4 has been shown to alter the response of microglia,
+making them less effective at resolving inflammation and promoting
+tissue repair, thus worsening the neurodegenerative process (Li et al.,
+2015).
+
+Together, these genetic factors highlight the central role of immune
+dysfunction in the pathogenesis of Alzheimer\'s disease. Both TREM2
+mutations and the APOE4 allele emphasize how genetic variations can
+influence the brain's inflammatory pathways and contribute to the
+disease. The findings suggest that addressing neuroinflammation,
+potentially through the influence of microglial activity or the
+inhibition of pro-inflammatory signaling pathways, could be a promising
+therapeutic strategy for Alzheimer's disease. These insights have opened
+new avenues for research aimed at understanding the intricate
+relationship between genetics, inflammation, and neurodegeneration in
+Alzheimer\'s. Further studies on the interaction between genetic risk
+factors and inflammatory processes are essential for developing targeted
+interventions that may help mitigate the devastating effects of
+Alzheimer's disease.
+
+PERIPHERAL INFLAMMATION AND ITS CONTRIBUTION TO ALZHEIMER'S
+
+Peripheral inflammation plays a large complex role in kickstarting and
+speeding the progression of Alzheimer's disease. It's driven by several
+factors that ramp up body-wide inflammation and set off inflammatory
+responses in the brain. One major player in this process is the
+gut-brain axis, which Cryan and colleagues (2019) explored. They showed
+that gut bacteria have a real impact on brain inflammation. Emerging
+evidence suggests that gut microbiota imbalances, or dysbiosis,
+contribute to systemic inflammation, which can exacerbate
+neuroinflammation in Alzheimer's disease. Dysbiosis has been shown to
+elevate inflammatory markers such as C-reactive protein (CRP) and
+pro-inflammatory cytokines in the bloodstream (Cryan et al., 2020).
+These markers may cross the blood-brain barrier, triggering inflammatory
+responses in the central nervous system (Fung et al., 2017). In the
+context of AD, such inflammation promotes the aggregation of
+amyloid-beta plaques and tau tangles, accelerating disease progression
+(Cattaneo et al., 2017; Harach et al., 2017). These findings underscore
+the potential role of the gut-brain axis in modulating neuroinflammation
+and highlight the need for therapeutic strategies targeting gut health
+to mitigate AD progression. Cryan et al. also point out a connection
+between metabolic problems, like obesity, insulin resistance, and brain
+inflammation. They propose that inflammation triggered by these
+metabolic problems might contribute to AD. Of these, insulin resistance
+plays a big role in Alzheimer's development since it can harm brain
+function and encourage the buildup of amyloid plaques.
+
+Craft (2005) highlights how systemic diseases, especially heart problems
+and diabetes, contribute to brain inflammation and cognitive decline.
+Conditions like high blood pressure, high cholesterol, and type 2
+diabetes raise the chances of developing Alzheimer\'s by increasing
+peripheral inflammation throughout the body. These diseases boost the
+levels of pro-inflammatory cytokines, which can make their way to the
+brain and activate glial cells. This kind of chronic inflammation is a
+major risk factor for cognitive decline and brain cell damage, and
+having these conditions over time speeds up the development of
+Alzheimer\'s.
+
+Besides metabolic and cardiovascular factors, chronic stress also plays
+a big role in inflammation and its link to Alzheimer\'s disease.
+According to McEwen (2012), stress hormones, especially cortisol, can
+harm the brain by triggering the production of inflammatory molecules.
+Long-term exposure to high cortisol levels has been linked to a higher
+risk of cognitive decline and dementia, as it also activates microglia.
+On top of that, stress-related inflammation can make other Alzheimer's
+risk factors, like high blood pressure worse, creating a cycle that
+speeds up cognitive decline. McEwen's research shows how our social
+environment, particularly chronic stress, can play a key role in the
+development of AD.
+
+CONTRASTING PERSPECTIVES: IS INFLAMMATION A CAUSE OR EFFECT?
+
+The understanding of inflammation\'s role in Alzheimer's disease (AD)
+has evolved significantly, with two primary perspectives emerging.
+Historically, the amyloid cascade hypothesis, introduced by Hardy and
+Higgins (1992), has dominated the field. This hypothesis posits that
+amyloid-beta plaques are the central cause of AD, with inflammation
+acting as a secondary response to plaque accumulation. According to this
+view, the presence of plaques causes a series of detrimental processes,
+including the activation of microglia and other immune cells (Heneka et
+al., 2015; Glass et al., 2010). In this framework, inflammation is
+regarded as an unavoidable consequence of amyloid accumulation,
+amplifying the damage and presenting a secondary target for therapeutic
+intervention (Wyss-Coray & Rogers, 2012).
+
+However, this traditional view has been challenged. Herrup (2015) argues
+against the primacy of amyloid-beta as the primary driver of AD and
+questions whether inflammation is merely a downstream effect. He
+proposes that AD may instead originate from natural cellular
+dysfunction, such as damaged repair mechanisms or the failure of vital
+cellular processes. For example, defects in DNA repair or mitochondrial
+function can compromise neuronal health, leading to cellular stress and
+subsequent inflammation (Cai et al., 2012; Swerdlow, 2018). According to
+Herrup, these fundamental cellular problems may precede or occur
+independently of amyloid-beta accumulation and inflammation. From this
+outlook, amyloid-beta buildup is seen as a consequence rather than a
+cause of cellular dysfunction, and inflammation may arise as a reaction
+to cellular stress rather than playing a causative role in disease
+progression.
+
+This shift in focus away from amyloid-beta as the primary culprit
+suggests that treatments exclusively targeting amyloid plaques may not
+address the underlying causes of AD. For instance, clinical trials of
+amyloid-targeting therapies have shown limited success in improving
+cognition, further supporting the need to explore alternative mechanisms
+(Cummings et al., 2019). Herrups hypothesis calls for a broader
+investigation into the cellular dysfunctions that precede or occur
+alongside amyloid-beta accumulation and inflammation. Such an approach
+highlights the need to explore any relationships between these factors.
+Demonstrating that inflammation is not merely an effect, but a
+contributing cause of AD remains a significant challenge in the current
+state of research. Nonetheless, longitudinal studies and experimental
+models are beginning to provide evidence that chronic inflammation can
+directly influence amyloid-beta production and tau pathology, offering
+new insights into disease progression (Heppner et al., 2015; Heneka et
+al., 2018).
+
+These differing perspectives underscore the complexity of Alzheimer's
+disease. They emphasize the importance of continued research to unravel
+how inflammation, amyloid-beta, and cellular dysfunction interact in the
+progression of the disease. Understanding these relationships will be
+critical in developing comprehensive approaches to prevent and treat AD
+effectively. By focusing on the interplay between inflammation and
+cellular health, researchers may uncover novel therapeutic strategies
+that address the root causes of Alzheimer's disease, potentially slowing
+or halting its progression.
+
+CONCLUSION
+
+In conclusion, neuroinflammation is increasingly recognized as a
+critical factor in Alzheimer's disease (AD), prompting a shift in focus
+from the traditional viewpoint on amyloid plaques and tau tangles.
+Studies have demonstrated that inflammation in the brain is not merely a
+consequence of AD but a driving force that increases neuronal and
+synaptic damage. This ultimately contributes to cognitive decline and
+memory loss (Heneka et al., 2015; Heppner et al., 2015). Activation of
+glial cells, particularly microglia and astrocytes, leads to the release
+of pro-inflammatory cytokines such as interleukin-1β (IL-1β) and tumor
+necrosis factor-α (TNF-α), while also disrupting the blood-brain
+barrier. Altogether, hese processes accelerate the progression of AD by
+amplifying neurodegeneration and facilitating the accumulation of
+amyloid-beta and tau pathology (Wyss-Coray & Rogers, 2012; Sweeney et
+al., 2019).
+
+Given this evidence, neuroinflammation has emerged as a promising target
+for therapeutic interventions. Recent research has identified specific
+inflammatory pathways, such as the NLRP3 inflammasome and complement
+system, as potential areas for therapeutic focus (Heneka et al., 2018;
+Hong et al., 2016). Moving forward, it is important to dive deeper into
+the complex interactions between inflammation and other pathological
+processes in AD, including oxidative stress, mitochondrial dysfunction,
+and vascular abnormalities (Swerdlow, 2018; Cai et al., 2012). This
+integrative understanding could pave the way for novel treatments that
+address the root causes of AD by modulating inflammatory responses.
+
+By recognizing inflammation as a key player rather than a secondary
+effect, researchers and clinicians can develop more comprehensive
+strategies for diagnosing, preventing, and treating AD. These strategies
+may include anti-inflammatory therapies, lifestyle changes, and
+interventions targeting the gut-brain axis to reduce systemic
+inflammation (Cummings et al., 2019; Cryan et al., 2020). These advances
+have the potential to transform the way we look at Alzheimer's disease,
+offering hope for improved outcomes, quality of life, and perhaps even
+prevention in the future. Ultimately, this shift highlights the
+importance of addressing inflammation as part of an alternative approach
+to combating AD.
+
+**Works Cited**
+
+-   Alzheimer's Disease Facts and Figures. (n.d.). In *Alzheimer's
+    Disease and Dementia*. Alzheimer's Disease and Dementia. Retrieved
+    December 14, 2024, from
+    <https://www.alz.org/alzheimers-dementia/facts-figures>
+
+-   Cattaneo, A., Cattane, N., & Galluzzi, S. (n.d.). Association of
+    brain amyloidosis with pro-inflammatory gut bacterial taxa and
+    peripheral inflammation markers in cognitively impaired elderly.
+    *National Library of Medicine*. Retrieved December 14, 2024, from
+    <https://pubmed.ncbi.nlm.nih.gov/27776263>
+
+-   Craft, S. (2005). Insulin resistance syndrome and Alzheimer's
+    disease: age- and obesity-related effects on memory, amyloid, and
+    inflammation. In *Neurobiology of aging: Vol. 26 Suppl 1* (pp.
+    65--69). *Neurobiology of aging*.
+    <https://doi.org/10.1016/j.neurobiolaging.2005.08.021>
+
+-   Cummings, J. L., Tong, G., & Ballard, C. (2019). Treatment
+    Combinations for Alzheimer's Disease: Current and Future
+    Pharmacotherapy Options. In *Journal of Alzheimer's disease: JAD*
+    (Vol. 67, Issue 3, pp. 779--794). *Journal of Alzheimer's disease:
+    JAD*. <https://doi.org/10.3233/JAD-180766>
+
+-   Fung, T. C., Olson, C. A., & Hsiao, E. Y. (2017). Interactions
+    between the microbiota, immune and nervous systems in health and
+    disease. *National Library of Medicine*.
+    <https://pubmed.ncbi.nlm.nih.gov/28092661>
+
+-   Harach, T., Marungruang, N., Duthilleul, N., Cheatham, V., McCoy, K.
+    D., Frisoni, G., Neher, J. J., Fk, F., Jucker, M., Lasser, T., &
+    Bolmont, T. (2017). Reduction of Abeta amyloid pathology in APPPS1
+    transgenic mice in the absence of gut microbiota. In *Scientific
+    reports* (Vol. 7, pp. 41802--41802). *Scientific reports*.
+    <https://doi.org/10.1038/srep41802>
+
+-   Hardy, J. A., & Higgins, G. A. (1992). Alzheimer's disease: the
+    amyloid cascade hypothesis. *National Library of Medicine*.
+    <https://pubmed.ncbi.nlm.nih.gov/1566067>
+
+-   Heneka, M. T., McManus, R. M., & Latz, E. (2018). Inflammasome
+    signalling in brain function and neurodegenerative disease. In
+    *Nature reviews. Neuroscience* (Vol. 19, Issue 10, pp. 610--621).
+    *Nature reviews. Neuroscience*.
+    <https://doi.org/10.1038/s41583-018-0055-7>
+
+-   Herrup, K. (2015). The case for rejecting the amyloid cascade
+    hypothesis. In *Nature neuroscience* (Vol. 18, Issue 6, pp.
+    794--799). *Nature neuroscience*. <https://doi.org/10.1038/nn.4017>
+
+-   Hong, S. (2016). Complement and microglia mediate early synapse loss
+    in Alzheimer mouse models. *National Library of Medicine*.
+    <https://pubmed.ncbi.nlm.nih.gov/27033548>
+
+-   McEwen, B. S. (1993). Brain on stress: how the social environment
+    gets under the skin. *National Library of Medicine*.
+    <https://pubmed.ncbi.nlm.nih.gov/23045648>
+
+-   Sweeney, M. D., Zhao, Z., Montagne, A., Nelson, A. R., &
+    Zlokovic, B. V. (2019). Blood-Brain Barrier: From Physiology to
+    Disease and Back. In *Physiological reviews* (Vol. 99, Issue 1, pp.
+    21--78). *Physiological reviews*.
+    <https://doi.org/10.1152/physrev.00050.2017>
+
+-   Swerdlow, R. H. (n.d.). Mitochondria and Mitochondrial Cascades in
+    Alzheimer's Disease. *National Library of Medicine*. Retrieved
+    December 14, 2024, from <https://pubmed.ncbi.nlm.nih.gov/29036828>
+
+-   Zhang, G., Wang, Z., Hu, H., Zhao, M., & Sun, L. (2021). Microglia
+    in Alzheimer's Disease: A Target for Therapeutic Intervention. In
+    *Frontiers in cellular neuroscience* (Vol. 15, pp. 749587--749587).
+    *Frontiers in cellular neuroscience*.
+    <https://doi.org/10.3389/fncel.2021.749587>
+
+-   Glass, C. K. (2010). Mechanisms underlying inflammation in
+    neurodegeneration. *National Library of Medicine*.
+    <https://pubmed.ncbi.nlm.nih.gov/20303880>
+
+-   Hardy, J., & Selkoe, D. J. (2002). The amyloid hypothesis of
+    Alzheimer's disease: progress and problems on the road to
+    therapeutics. *National Library of Medicine*.
+    <https://pubmed.ncbi.nlm.nih.gov/12130773>
+
+-   Heneka, M. T., Carson, M. J., Khoury, J. E., Landreth, G. E.,
+    Brosseron, F., Feinstein, D. L., Jacobs, A. H., Wyss-Coray, T.,
+    Vitorica, J., Ransohoff, R. M., Herrup, K., Frautschy, S. A.,
+    Finsen, B., Brown, G. C., Verkhratsky, A., Yamanaka, K., Koistinaho,
+    J., Latz, E., Halle, A., ... Golenbock, D. T. (2015).
+    Neuroinflammation in Alzheimer's disease. In *The Lancet. Neurology*
+    (Vol. 14, Issue 4, pp. 388--405). *The Lancet. Neurology*.
+    <https://doi.org/10.1016/S1474-4422(15)70016-5>
+
+-   Heppner, F. L., Ransohoff, R. M., & Becher, B. (2015). Immune
+    attack: the role of inflammation in Alzheimer disease. In *Nature
+    reviews. Neuroscience* (Vol. 16, Issue 6, pp. 358--372). *Nature
+    reviews. Neuroscience*. <https://doi.org/10.1038/nrn3880>
+
+-   Li, X., Song, D., & Leng, S. X. (2015). Link between type 2 diabetes
+    and Alzheimer's disease: from epidemiology to mechanism and
+    treatment. In *Clinical interventions in aging* (Vol. 10, pp.
+    549--560). *Clinical interventions in aging*.
+    <https://doi.org/10.2147/CIA.S74042>
+
+-   Liu, C.-C. (2013). Apolipoprotein E and Alzheimer disease: risk,
+    mechanisms and therapy. *National Library of Medicine*.
+    <https://pubmed.ncbi.nlm.nih.gov/23296339>
+
+-   Mahley, R. W., & Huang, Y. (2012). Apolipoprotein E sets the stage:
+    response to injury triggers neuropathology. In *Neuron* (Vol. 76,
+    Issue 5, pp. 871--885). *Neuron*.
+    <https://doi.org/10.1016/j.neuron.2012.11.020>
+
+-   Selkoe, D. J., & Hardy, J. (2016). The amyloid hypothesis of
+    Alzheimer's disease at 25 years. *National Library of Medicine*.
+    <https://pubmed.ncbi.nlm.nih.gov/27025652>
+
+-   Suárez-Calvet, M., Kleinberger, G., Caballero, M. Á., Brendel, M.,
+    Rominger, A., Alcolea, D., Fortea, J., Lleó, A., Blesa, R.,
+    Gispert, J. D., Sánchez-Valle, R., Antonell, A., Rami, L.,
+    Molinuevo, J. L., Brosseron, F., Trachsel, A., Heneka, M. T.,
+    Struyfs, H., Engelborghs, S., ... Haass, C. (2016). sTREM2
+    cerebrospinal fluid levels are a potential biomarker for microglia
+    activity in early-stage Alzheimer's disease and associate with
+    neuronal injury markers. In *EMBO molecular medicine* (Vol. 8, Issue
+    5, pp. 466--476). *EMBO molecular medicine*.
+    <https://doi.org/10.15252/emmm.201506123>
+
+-   Wyss-Coray, T., & Rogers, J. (n.d.). Inflammation in Alzheimer
+    disease-a brief review of the basic science and clinical literature.
+    *National Library of Medicine*. Retrieved December 14, 2024, from
+    <https://pubmed.ncbi.nlm.nih.gov/22315714>
+
+-   Cryan, J. F., O'Riordan, K. J., Sandhu, K., Peterson, V., &
+    Dinan, T. G. (2020). The gut microbiome in neurological disorders.
+    In *The Lancet. Neurology* (Vol. 19, Issue 2, pp. 179--194). The
+    Lancet. Neurology. [https://doi.org/10.1016/S1474-4422(19)30356-4\
+    ](https://doi.org/10.1016/S1474-4422(19)30356-4)
+
+-   Guerreiro, R., Wojtas, A., Bras, J., Carrasquillo, M., Rogaeva, E.,
+    Majounie, E., Cruchaga, C., Sassi, C., Kauwe, J. S. K., Younkin, S.,
+    Hazrati, L., Collinge, J., Pocock, J., Lashley, T., Williams, J.,
+    Lambert, J.-C., Amouyel, P., Goate, A., Rademakers, R., ...
+    undefined Alzheimer Genetic Analysis Group. (2013). TREM2 variants
+    in Alzheimer's disease. In *The New England journal of medicine*
+    (Vol. 368, Issue 2, pp. 117--127). The New England journal of
+    medicine. <https://doi.org/10.1056/NEJMoa1211851>

@@ -1,0 +1,25 @@
+project:
+  type: website
+  render:
+    - posts/neuroinflammation-part-1/index.qmd
+    - about.qmd
+    - index.qmd
+
+website:
+  title: "NeuroScope"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/nicholas-monogioudis
+      - icon: linkedin
+        href: https://www.linkedin.com/in/nicholas-monogioudis/
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+
+
+
