@@ -23,7 +23,7 @@ jobs:
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
         with:
-          target: gh_pages
+          target: gh-pages
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
@@ -32,7 +32,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           #external_repository: nicholas-monogioudis/nicholas-monogioudis.github.io
-          #publish_branch: gh_pages  # or master, depending on your setup
+          publish_branch: gh-pages  # or master, depending on your setup
           publish_dir: ./_site  # Directory of your build outputs
           allow_empty_commit: true
           keep_files: false  # Set to 'true' if you don't want to overwrite existing files
