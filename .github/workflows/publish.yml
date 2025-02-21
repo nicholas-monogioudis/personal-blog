@@ -32,11 +32,10 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           #external_repository: nicholas-monogioudis/nicholas-monogioudis.github.io
-          #publish_branch: main  # or master, depending on your setup
+          publish_branch: gh_pages  # or master, depending on your setup
           publish_dir: ./_site  # Directory of your build outputs
           allow_empty_commit: true
           keep_files: false  # Set to 'true' if you don't want to overwrite existing files
           user_name: 'GitHub Actions'
           user_email: 'actions@github.com'
           commit_message: 'Deploy updates made to personal blog'
-          
