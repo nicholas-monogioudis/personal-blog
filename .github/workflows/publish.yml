@@ -30,7 +30,7 @@ jobs:
       - name: Deploy to nicholas-monogioudis.github.io
         uses: peaceiris/actions-gh-pages@v3
         with:
-          deploy_key: ${{ secrets.CICD_TOKEN }}
+          deploy_key: ${{ secrets.DEPLOY_KEY }}
           external_repository: nicholas-monogioudis/nicholas-monogioudis.github.io
           publish_branch: main  # or master, depending on your setup
           publish_dir: ./_site  # Directory of your build outputs
@@ -38,4 +38,4 @@ jobs:
           keep_files: false  # Set to 'true' if you don't want to overwrite existing files
           user_name: 'GitHub Actions'
           user_email: 'actions@github.com'
-          commit_message: 'Deploy updates made to engineering-ai-agents'
+          commit_message: 'Deploy updates made to personal blog'
