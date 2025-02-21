@@ -31,7 +31,7 @@ jobs:
       - name: Deploy to nicholas-monogioudis.github.io
         uses: peaceiris/actions-gh-pages@v3
         with:
-          deploy_key: ${{ secrets.DEPLOY_KEY }}
+          deploy_key: ${{ secrets.CICD_TOKEN }}
           external_repository: nicholas-monogioudis/nicholas-monogioudis.github.io
           publish_branch: main  # or master, depending on your setup
           publish_dir: ./_site  # Directory of your build outputs
