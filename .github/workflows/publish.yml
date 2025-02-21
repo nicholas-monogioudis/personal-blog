@@ -1,0 +1,42 @@
+on:
+  workflow_dispatch:
+  push:
+    branches: main
+
+name: Quarto Publish
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          token: ${{ secrets.CICD_TOKEN }}
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+      
+            
+      - name: Render and Publish
+        uses: quarto-dev/quarto-actions/publish@v2
+        with:
+          target: gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Deploy to nicholas-monogioudis.github.io
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          deploy_key: ${{ secrets.DEPLOY_KEY }}
+          external_repository: nicholas-monogioudis/nicholas-monogioudis.github.io
+          publish_branch: main  # or master, depending on your setup
+          publish_dir: ./_site  # Directory of your build outputs
+          allow_empty_commit: true
+          keep_files: false  # Set to 'true' if you don't want to overwrite existing files
+          user_name: 'GitHub Actions'
+          user_email: 'actions@github.com'
+          commit_message: 'Deploy updates made to engineering-ai-agents'
