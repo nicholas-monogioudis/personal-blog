@@ -1,0 +1,25 @@
+---
+title: "Neuroinflammation in Alzheimer's Pathology - Part II"
+author: "Nicholas Monogioudis"
+date: "2025-02-022"
+categories: [Thesis]
+image: "image.jpg"
+bibliography: ../references.bib
+---
+
+
+![](images/test.png)
+
+## THE ROLE OF NEUROINFLAMMATION IN ALZHEIMER’S PATHOLOGY
+
+Neuroinflammation is now recognized as a major contributor to Alzheimer’s disease. A key part of this is the role of microglia which are immune cells in the brain that keep things balanced by responding to injuries, infections, and other disruptions. In Alzheimer’s disease, microglia (the brain’s resident immune cells) are constantly activated. This is different from their normal transient activation during acute immune responses (Heneka et al., 2015). This chronic activation causes a cascade of damaging effects, including the release of pro-inflammatory cytokines like IL-1β and TNF-α, as well as reactive oxygen species, which lead to synaptic dysfunction and neuronal death [@Glass2010MechanismsUI][@SurezCalvet2016sTREM2CF]. As microglia continuously attack neurons, they contribute to the disruption of synaptic connections and increase cognitive decline and memory impairments characteristic of Alzheimer’s disease [@WyssCoray2012InflammationIA]. This suggests that microglial dysregulation is a central mechanism driving neurodegeneration in AD, perpetuating the cycle of inflammation and neuronal loss. This highlights how immune dysregulation contributes not just to neuronal loss but also to the overall progression of AD.
+
+As stated above, cytokines have a prominent role in Alzheimer's disease. Key molecules like interleukin-1β (IL-1β), tumor necrosis factor-alpha (TNF-α), and interleukin-6 (IL-6) all have higher levels in the brains of people with AD. As a result, synaptic function and plasticity are affected. The increase in cytokine levels not only helps trigger the hyperphosphorylation of tau (a major hallmark of AD) which weakens neurons even more [@WyssCoray2012InflammationIA], they also make it easier for amyloid plaques to form. This creates a cycle of inflammation and neuronal damage.
+
+In addition to the direct effects of cytokines, a key part of AD is the back-and-forth between amyloid-beta build-up and brain inflammation. When amyloid-beta plaques pile up in the brains of people with Alzheimer’s, they signal to fire inflammatory molecules from microglia, which then speed up the deposits of even more amyloid-beta. This cycle of plaques causing inflammation, and inflammation causing more plaques, really drives the progression of the disease. Studies suggest that breaking this loop could help lower plaque build-up and slow down the disease, making neuroinflammation an exciting target for new treatments [@Heppner2015ImmuneAT]. Since the link between amyloid-beta and inflammation is very complicated, targeting the inflammation might help stop this. Ths gives hope for future therapies that could delay or even prevent Alzheimer’s. Thus, getting a better handle on inflammation is essential for finding more effective treatments.
+
+
+### References
+
+::: {#refs}
+:::

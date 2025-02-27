@@ -1,7 +1,11 @@
 project:
   type: website
+  resources:
+    - references.bib
   render:
     - posts/neuroinflammation-part-1/index.qmd
+    - posts/neuroinflammation-part-2/index.qmd
+    - posts/neuroinflammation-part-3/index.qmd
     - about.qmd
     - index.qmd
 
