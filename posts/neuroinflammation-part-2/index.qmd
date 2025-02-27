@@ -3,7 +3,7 @@ title: "Neuroinflammation in Alzheimer's Pathology - Part II"
 author: "Nicholas Monogioudis"
 date: "2025-02-022"
 categories: [Thesis]
-image: "image.jpg"
+image: "test.png"
 bibliography: ../references.bib
 ---
 
