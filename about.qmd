@@ -1,6 +1,7 @@
 ---
-title: "About"
-image: profile.jpg
+title: About Me
+image: Profile Picture Circle Crop.png
+size: medium
 about:
   template: jolla
   links:
@@ -9,11 +10,43 @@ about:
       href: https://www.instagram.com/nick.monogioudis/
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://linkedin.com/in/nicholas-monogioudis/
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/nicholas-monogioudis
 
 ---
 
 
+## Welcome to My Blog!
+
+Hello, my name is **Nicholas Monogioudis**, a recent neuroscience graduate passionate about **clinical research, biotech, and AI in neuroscience**.  
+
+### **Unlocking the Brain's Secrets**
+This blog is where I share my insights on **neuroscience, research breakthroughs, and industry trends**, with a special focus on **cognitive neuroscience, neuropharmacology, and neurotechnology**.  
+
+I aim to bridge the gap between complex neuroscience concepts and real-world applications, making cutting-edge research more accessible. Whether you're a student, researcher, or simply someone curious about the brain, you'll find content here on:  
+
+**The latest discoveries in neuroscience** and what they mean for the future  
+**Deep dives into cognitive processes, brain function, and neural networks**  
+**How neuroscience is shaping the pharmaceutical and biotech industries**  
+**The intersection of neuroscience with AI, brain-computer interfaces, and neurotech**  
+**Personal reflections on my journey in neuroscience and industry insights**  
+
+### **My Background**
+
+**Education:** B.Sc. in Neuroscience from Temple University  
+
+**Research Experience:**  
+
+  **Research Assistant, Concepts and Cognition Lab**  
+    Conducted research on language, semantic memory, and progressive language impairment in dementia. Co-led eye-tracking research, administering tests and analyzing patient data. Gained experience with eye-tracking technology, EEG, and developing support guides for individuals with dementia and traumatic brain injury. 
+    
+  **Research Assistant, Aphasia Rehabilitation Lab**  
+    Studied the cognitive relationship between verbal short-term memory and word processing disorders. Administered language assessments (Stroop Test, Boston Naming Test) and managed research data. Assisted in database organization for prior studies. 
+
+### **Career Goals:**  
+  Ultimately, my career goal is to become a neuroscientist in the pharmaceutical or biotechnology industry, conducting research and development on new drugs or treatments for neurological conditions with a focus on drug discovery, clinical trials, and regulatory affairs.  
+
+### **Connect With Me**
+Feel free to reach out on any of my social media platforms below. Let’s explore the brain together!
