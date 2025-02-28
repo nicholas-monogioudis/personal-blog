@@ -1,0 +1,25 @@
+---
+title: "The Role of Inflammation in Alzheimer's Development - Conclusion"
+author: "Nicholas Monogioudis"
+date: "2025-02-27"
+categories: [Thesis]
+image: "./images/test.png"
+bibliography: ../references.bib
+---
+
+
+![](images/test.png)
+
+## CONCLUSION
+
+In conclusion, neuroinflammation is increasingly recognized as a critical factor in Alzheimer’s disease (AD), prompting a shift in focus from the traditional viewpoint on amyloid plaques and tau tangles. Studies have demonstrated that inflammation in the brain is not merely a consequence of AD but a driving force that increases neuronal and synaptic damage. This ultimately contributes to cognitive decline and memory loss [@Heneka2015NeuroinflammationIA][@Heppner2015ImmuneAT]. Activation of glial cells, particularly microglia and astrocytes, leads to the release of pro-inflammatory cytokines such as interleukin-1β (IL-1β) and tumor necrosis factor-α (TNF-α), while also disrupting the blood-brain barrier. Altogether, hese processes accelerate the progression of AD by amplifying neurodegeneration and facilitating the accumulation of amyloid-beta and tau pathology [@WyssCoray2012InflammationIA][@Sweeney2019BloodBrainBF].
+
+Given this evidence, neuroinflammation has emerged as a promising target for therapeutic interventions. Recent research has identified specific inflammatory pathways, such as the NLRP3 inflammasome and complement system, as potential areas for therapeutic focus [@Heneka2018InflammasomeSI][@Hong2016ComplementAM]. Moving forward, it is important to dive deeper into the complex interactions between inflammation and other pathological processes in AD, including oxidative stress, mitochondrial dysfunction, and vascular abnormalities [@Swerdlow2017MitochondriaAM][@Cai2011RegulationOA]. This integrative understanding could pave the way for novel treatments that address the root causes of AD by modulating inflammatory responses.
+
+By recognizing inflammation as a key player rather than a secondary effect, researchers and clinicians can develop more comprehensive strategies for diagnosing, preventing, and treating AD. These strategies may include anti-inflammatory therapies, lifestyle changes, and interventions targeting the gut-brain axis to reduce systemic inflammation [@Cummings2019TreatmentCF][@Cryan2019TheGM]. These advances have the potential to transform the way we look at Alzheimer’s disease, offering hope for improved outcomes, quality of life, and perhaps even prevention in the future. Ultimately, this shift highlights the importance of addressing inflammation as part of an alternative approach to combating AD.
+
+
+### References
+
+::: {#refs}
+:::
