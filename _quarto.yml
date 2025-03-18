@@ -4,15 +4,6 @@ project:
     port: 4200
   resources:
     - references.bib
-  render:
-    - posts/neuroinflammation-part-1/index.qmd
-    - posts/neuroinflammation-part-2/index.qmd
-    - posts/neuroinflammation-part-3/index.qmd
-    - posts/neuroinflammation-part-4/index.qmd
-    - posts/neuroinflammation-part-5/index.qmd
-    - posts/neuroinflammation-part-6/index.qmd
-    - about.qmd
-    - index.qmd
 
 website:
   title: "NeuroScope"
@@ -25,12 +16,21 @@ website:
         href: https://www.linkedin.com/in/nicholas-monogioudis/
       - icon: instagram
         href: https://www.instagram.com/nicholasmonogioudis/
+
+render:
+- posts/neuroinflammation-part-1/index.qmd
+- posts/neuroinflammation-part-2/index.qmd
+- posts/neuroinflammation-part-3/index.qmd
+- posts/neuroinflammation-part-4/index.qmd
+- posts/neuroinflammation-part-5/index.qmd
+- posts/neuroinflammation-part-6/index.qmd
+- about.qmd
+- index.qmd
+- about.qmd
+
 format:
   html:
     theme:
       - cosmo
       - brand
     css: styles.css
-
-
-
