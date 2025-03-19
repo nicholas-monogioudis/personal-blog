@@ -1,35 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://nicholas-monogioudis.github.io/personal-blog/index.html</loc>
-    <lastmod>2025-02-28T01:51:53.806Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nicholas-monogioudis.github.io/personal-blog/posts/neuroinflammation-part-6/index.html</loc>
-    <lastmod>2025-02-28T01:51:53.816Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nicholas-monogioudis.github.io/personal-blog/posts/neuroinflammation-part-4/index.html</loc>
-    <lastmod>2025-02-28T01:51:53.812Z</lastmod>
-  </url>
-  <url>
     <loc>https://nicholas-monogioudis.github.io/personal-blog/posts/neuroinflammation-part-2/index.html</loc>
-    <lastmod>2025-02-28T01:51:53.809Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nicholas-monogioudis.github.io/personal-blog/posts/neuroinflammation-part-1/index.html</loc>
-    <lastmod>2025-02-28T01:51:53.807Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nicholas-monogioudis.github.io/personal-blog/posts/neuroinflammation-part-3/index.html</loc>
-    <lastmod>2025-02-28T01:51:53.811Z</lastmod>
+    <lastmod>2025-03-19T00:00:27.659Z</lastmod>
   </url>
   <url>
     <loc>https://nicholas-monogioudis.github.io/personal-blog/posts/neuroinflammation-part-5/index.html</loc>
-    <lastmod>2025-02-28T01:51:53.814Z</lastmod>
+    <lastmod>2025-03-19T00:00:27.663Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nicholas-monogioudis.github.io/personal-blog/posts/neuroinflammation-part-4/index.html</loc>
+    <lastmod>2025-03-19T00:00:27.662Z</lastmod>
   </url>
   <url>
     <loc>https://nicholas-monogioudis.github.io/personal-blog/about.html</loc>
-    <lastmod>2025-02-28T01:51:53.806Z</lastmod>
+    <lastmod>2025-03-19T00:00:27.655Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nicholas-monogioudis.github.io/personal-blog/index.html</loc>
+    <lastmod>2025-03-19T00:00:27.655Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nicholas-monogioudis.github.io/personal-blog/thesis.html</loc>
+    <lastmod>2025-03-19T00:00:27.665Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nicholas-monogioudis.github.io/personal-blog/posts/neuroinflammation-part-1/index.html</loc>
+    <lastmod>2025-03-19T00:00:27.657Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nicholas-monogioudis.github.io/personal-blog/posts/neuroinflammation-part-3/index.html</loc>
+    <lastmod>2025-03-19T00:00:27.660Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nicholas-monogioudis.github.io/personal-blog/posts/neuroinflammation-part-6/index.html</loc>
+    <lastmod>2025-03-19T00:00:27.665Z</lastmod>
   </url>
 </urlset>
