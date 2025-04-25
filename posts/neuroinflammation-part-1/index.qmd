@@ -27,8 +27,11 @@ For decades, the predominant explanation for Alzheimer's has been the
 "amyloid hypothesis," which credits the disease to the accumulation of
 amyloid-beta plaques and tau tangles in the brain [@Hardy2009TheAH]. These abnormal protein build-ups disrupt neuronal communication,
 trigger cell death, and have been central to most research and
-therapeutic strategies (Selkoe & Hardy, 2016). Genetic factors, such as
-the APOE4 gene, have also been linked to increased risk and progression
+therapeutic strategies (Selkoe & Hardy, 2016). 
+
+![](images/hardy2009.png)
+
+Genetic factors, such as the APOE4 gene, have also been linked to increased risk and progression
 of AD [@Liu2013ApolipoproteinEA]. While the amyloid hypothesis has guided much
 of the scientific investigation, treatments targeting amyloid plaques
 have mostly fallen short in giving significant clinical benefits [@Cummings2019TreatmentCF]. This has led researchers to explore alternative
@@ -38,8 +41,11 @@ Alzheimer's.
 Emerging evidence points to chronic inflammation as a critical driver of
 AD pathology. Unlike acute inflammation, which is a short-term and
 protective immune response, chronic inflammation is a prolonged state
-that disrupts normal physiological function [@Heppner2015ImmuneAT]. In
-the brain, this persistent inflammation can arise from factors such as
+that disrupts normal physiological function [@Heppner2015ImmuneAT]. 
+
+![](images/heppner2015.png)
+
+In the brain, this persistent inflammation can arise from factors such as
 metabolic dysfunction, oxidative stress, and unhealthy lifestyle habits [@Heneka2015NeuroinflammationIA]. Over time, these triggers activate immune cells
 like microglia and astrocytes, which, instead of protecting neurons,
 begin to release inflammatory molecules that damage healthy brain cells [@Glass2010MechanismsUI]. This inflammatory environment not only accelerates

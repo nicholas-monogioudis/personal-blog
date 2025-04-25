@@ -19,7 +19,7 @@ Peripheral inflammation plays a large complex role in kickstarting and speeding 
 
 Besides metabolic and cardiovascular factors, chronic stress also plays a big role in inflammation and its link to Alzheimer's disease. According to [@McEwen2012BrainOS], stress hormones, especially cortisol, can harm the brain by triggering the production of inflammatory molecules. Long-term exposure to high cortisol levels has been linked to a higher risk of cognitive decline and dementia, as it also activates microglia. On top of that, stress-related inflammation can make other Alzheimer’s risk factors, like high blood pressure worse, creating a cycle that speeds up cognitive decline. McEwen’s research shows how our social environment, particularly chronic stress, can play a key role in the development of AD. 
 
-
+![](images/mcewen2012.png)
 
 ### References
 
