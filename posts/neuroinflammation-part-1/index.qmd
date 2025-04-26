@@ -9,7 +9,7 @@ order: 1
 ---
 
 
-![](images/test.png)
+![](images/test.png){fig-align="center"}
 
 ## INTRODUCTION
 
@@ -29,7 +29,7 @@ amyloid-beta plaques and tau tangles in the brain [@Hardy2009TheAH]. These abnor
 trigger cell death, and have been central to most research and
 therapeutic strategies (Selkoe & Hardy, 2016). 
 
-![](images/hardy2009.png)
+![](images/hardy2009.png){fig-align="center"}
 
 Genetic factors, such as the APOE4 gene, have also been linked to increased risk and progression
 of AD [@Liu2013ApolipoproteinEA]. While the amyloid hypothesis has guided much
@@ -43,7 +43,7 @@ AD pathology. Unlike acute inflammation, which is a short-term and
 protective immune response, chronic inflammation is a prolonged state
 that disrupts normal physiological function [@Heppner2015ImmuneAT]. 
 
-![](images/heppner2015.png)
+![](images/heppner2015.png){fig-align="center"}
 
 In the brain, this persistent inflammation can arise from factors such as
 metabolic dysfunction, oxidative stress, and unhealthy lifestyle habits [@Heneka2015NeuroinflammationIA]. Over time, these triggers activate immune cells

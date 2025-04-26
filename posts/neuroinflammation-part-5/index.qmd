@@ -9,17 +9,17 @@ order: 5
 ---
 
 
-![](images/test.png)
+![](images/test.png){fig-align="center"}
 
 ## CONTRASTING PERSPECTIVES: IS INFLAMMATION A CAUSE OR EFFECT?
 
 The understanding of inflammation's role in Alzheimer’s disease (AD) has evolved significantly, with two primary perspectives emerging. Historically, the amyloid cascade hypothesis, introduced by [@Hardy1992AlzheimersDT], has dominated the field. This hypothesis posits that amyloid-beta plaques are the central cause of AD, with inflammation acting as a secondary response to plaque accumulation. According to this view, the presence of plaques causes a series of detrimental processes, including the activation of microglia and other immune cells [@Heneka2015NeuroinflammationIA][@Glass2010MechanismsUI]. In this framework, inflammation is regarded as an unavoidable consequence of amyloid accumulation, amplifying the damage and presenting a secondary target for therapeutic intervention [@WyssCoray2012InflammationIA].
 
-![](images/heneka2015.png)
+![](images/heneka2015.png){fig-align="center"}
 
 However, this traditional view has been challenged. [@Herrup2015TheCF] argues against the primacy of amyloid-beta as the primary driver of AD and questions whether inflammation is merely a downstream effect. He proposes that AD may instead originate from natural cellular dysfunction, such as damaged repair mechanisms or the failure of vital cellular processes. For example, defects in DNA repair or mitochondrial function can compromise neuronal health, leading to cellular stress and subsequent inflammation [@Cai2011RegulationOA][@Swerdlow2017MitochondriaAM]. According to Herrup, these fundamental cellular problems may precede or occur independently of amyloid-beta accumulation and inflammation. From this outlook, amyloid-beta buildup is seen as a consequence rather than a cause of cellular dysfunction, and inflammation may arise as a reaction to cellular stress rather than playing a causative role in disease progression.
 
-![](images/swerdlow2017.png)
+![](images/swerdlow2017.png){fig-align="center"}
 
 This shift in focus away from amyloid-beta as the primary culprit suggests that treatments exclusively targeting amyloid plaques may not address the underlying causes of AD. For instance, clinical trials of amyloid-targeting therapies have shown limited success in improving cognition, further supporting the need to explore alternative mechanisms (Cummings et al., 2019). Herrups hypothesis calls for a broader investigation into the cellular dysfunctions that precede or occur alongside amyloid-beta accumulation and inflammation. Such an approach highlights the need to explore any relationships between these factors. Demonstrating that inflammation is not merely an effect, but a contributing cause of AD remains a significant challenge in the current state of research. Nonetheless, longitudinal studies and experimental models are beginning to provide evidence that chronic inflammation can directly influence amyloid-beta production and tau pathology, offering new insights into disease progression [@Heppner2015ImmuneAT][@Heneka2018InflammasomeSI].
 

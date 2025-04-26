@@ -39,11 +39,19 @@ I aim to bridge the gap between complex neuroscience concepts and real-world app
 
 **Research Experience:**  
 
-  **Research Assistant, Concepts and Cognition Lab**  
-    Conducted research on language, semantic memory, and progressive language impairment in dementia. Co-led eye-tracking research, administering tests and analyzing patient data. Gained experience with eye-tracking technology, EEG, and developing support guides for individuals with dementia and traumatic brain injury. 
+  **Research Assistant, Concepts and Cognition Lab**
+  
+  1. Worked on an R01 grant focusing on detection of mild cognitive decline in minority populations
+  2. Learned how to operate an SRI Eyelink 1000 Eye Tracker and a Wearable Sensing DSI 24 Channel EEG system
+  3. Assisted in the creation of experiments utilizing the accompanying software and contributed to general pipeline development, including file organization pathways and refinement of procedures
+ 
     
-  **Research Assistant, Aphasia Rehabilitation Lab**  
-    Studied the cognitive relationship between verbal short-term memory and word processing disorders. Administered language assessments (Stroop Test, Boston Naming Test) and managed research data. Assisted in database organization for prior studies. 
+  **Research Assistant, Aphasia Rehabilitation Research Lab**
+
+  1. Tasked with all levels of participant testing and data collection for an R01 grant focusing on the development of a battery for aphasia in post-stroke populations
+  2. Primary tasks included recruitment, administrating computerized tasks to participants, and entering/organizing data in REDCap software
+  3. Further assisted in stimuli development and preparing data for analysis via auditing and cleaning
+
 
 ### **Career Goals:**  
   Ultimately, my career goal is to become a neuroscientist in the pharmaceutical or biotechnology industry, conducting research and development on new drugs or treatments for neurological conditions with a focus on drug discovery, clinical trials, and regulatory affairs.  
